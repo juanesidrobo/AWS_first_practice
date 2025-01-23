@@ -1,0 +1,255 @@
+[
+    {
+      "nombre": "Buenos Aires",
+      "altitud": 1200,
+      "area": 410,
+      "anio_fundacion": 1823
+    },
+    {
+      "nombre": "Caloto",
+      "altitud": 1100,
+      "area": 397.21,
+      "anio_fundacion": 1543
+    },
+    {
+      "nombre": "Corinto",
+      "altitud": 1050,
+      "area": 302,
+      "anio_fundacion": 1867
+    },
+    {
+      "nombre": "Guachené",
+      "altitud": 852,
+      "area": 392.21,
+      "anio_fundacion": 2006
+    },
+    {
+      "nombre": "Miranda",
+      "altitud": 1120,
+      "area": 189,
+      "anio_fundacion": 1899
+    },
+    {
+      "nombre": "Padilla",
+      "altitud": 1000,
+      "area": 100,
+      "anio_fundacion": 1823
+    },
+    {
+      "nombre": "Puerto Tejada",
+      "altitud": 968,
+      "area": 368,
+      "anio_fundacion": 1897
+    },
+    {
+      "nombre": "Santander de Quilichao",
+      "altitud": 1071,
+      "area": 518,
+      "anio_fundacion": 1543
+    },
+    {
+      "nombre": "Suárez",
+      "altitud": 1050,
+      "area": 390,
+      "anio_fundacion": 1823
+    },
+    {
+      "nombre": "Villa Rica",
+      "altitud": 982,
+      "area": 74,
+      "anio_fundacion": 1936
+    },
+    {
+      "nombre": "Cajibío",
+      "altitud": 1765,
+      "area": 747,
+      "anio_fundacion": 1560
+    },
+    {
+      "nombre": "El Tambo",
+      "altitud": 1750,
+      "area": 3280,
+      "anio_fundacion": 1641
+    },
+    {
+      "nombre": "La Sierra",
+      "altitud": 1633,
+      "area": 217,
+      "anio_fundacion": 1823
+    },
+    {
+      "nombre": "Morales",
+      "altitud": 1635,
+      "area": 265,
+      "anio_fundacion": 1806
+    },
+    {
+      "nombre": "Piendamó",
+      "altitud": 1685,
+      "area": 197,
+      "anio_fundacion": 1535
+    },
+    {
+      "nombre": "Popayán",
+      "altitud": 1760,
+      "area": 483.1,
+      "anio_fundacion": 1537
+    },
+    {
+      "nombre": "Rosas",
+      "altitud": 1900,
+      "area": 130,
+      "anio_fundacion": 1806
+    },
+    {
+      "nombre": "Sotará",
+      "altitud": 2726,
+      "area": 518,
+      "anio_fundacion": 1879
+    },
+    {
+      "nombre": "Timbío",
+      "altitud": 1850,
+      "area": 205,
+      "anio_fundacion": 1535
+    },
+    {
+      "nombre": "Almaguer",
+      "altitud": 2312,
+      "area": 320,
+      "anio_fundacion": 1551
+    },
+    {
+      "nombre": "Argelia",
+      "altitud": 1250,
+      "area": 655,
+      "anio_fundacion": 1912
+    },
+    {
+      "nombre": "Balboa",
+      "altitud": 1200,
+      "area": 403,
+      "anio_fundacion": 1912
+    },
+    {
+      "nombre": "Bolívar",
+      "altitud": 1777,
+      "area": 755,
+      "anio_fundacion": 1794
+    },
+    {
+      "nombre": "Florencia",
+      "altitud": 1500,
+      "area": 57,
+      "anio_fundacion": 1535
+    },
+    {
+      "nombre": "La Vega",
+      "altitud": 2136,
+      "area": 494,
+      "anio_fundacion": 1777
+    },
+    {
+      "nombre": "Mercaderes",
+      "altitud": 1167,
+      "area": 827,
+      "anio_fundacion": 1535
+    },
+    {
+      "nombre": "Patía",
+      "altitud": 910,
+      "area": 723,
+      "anio_fundacion": 1824
+    },
+    {
+      "nombre": "Piamonte",
+      "altitud": 1500,
+      "area": 1149,
+      "anio_fundacion": 1959
+    },
+    {
+      "nombre": "San Sebastián",
+      "altitud": 2700,
+      "area": 436,
+      "anio_fundacion": 1562
+    },
+    {
+      "nombre": "Santa Rosa",
+      "altitud": 1700,
+      "area": 3198,
+      "anio_fundacion": 1593
+    },
+    {
+      "nombre": "Sucre",
+      "altitud": 1140,
+      "area": 56,
+      "anio_fundacion": 1535
+    },
+    {
+      "nombre": "Guapi",
+      "altitud": 6,
+      "area": 2688,
+      "anio_fundacion": 1772
+    },
+    {
+      "nombre": "López de Micay",
+      "altitud": 130,
+      "area": 3241,
+      "anio_fundacion": 1910
+    },
+    {
+      "nombre": "Timbiquí",
+      "altitud": 5,
+      "area": 1813,
+      "anio_fundacion": 1772
+    },
+    {
+      "nombre": "Caldono",
+      "altitud": 1800,
+      "area": 379.98,
+      "anio_fundacion": 1730
+    },
+    {
+      "nombre": "Inzá",
+      "altitud": 1754,
+      "area": 1258,
+      "anio_fundacion": 1577
+    },
+    {
+      "nombre": "Jambaló",
+      "altitud": 2507.4,
+      "area": 254,
+      "anio_fundacion": 1770
+    },
+    {
+      "nombre": "Páez",
+      "altitud": 1380,
+      "area": 1852,
+      "anio_fundacion": 1907
+    },
+    {
+      "nombre": "Puracé",
+      "altitud": 2850,
+      "area": 707,
+      "anio_fundacion": 1840
+    },
+    {
+      "nombre": "Silvia",
+      "altitud": 2800,
+      "area": 662.4,
+      "anio_fundacion": 1562
+    },
+    {
+      "nombre": "Toribío",
+      "altitud": 1701,
+      "area": 412,
+      "anio_fundacion": 1600
+    },
+    {
+      "nombre": "Totoró",
+      "altitud": 2750,
+      "area": 422,
+      "anio_fundacion": 1815
+    }
+]
+  
